@@ -163,10 +163,10 @@ Update the local data source directory to point to your cloned data/processed/ f
 Click Refresh.
 
 👤 Author & Contact
-Name: [Your Name]
+Name: Muhammad Shafiq
 
 Background: Electrical & Automation Engineer transitioning to Analytics Engineering
 
-LinkedIn: linkedin.com/in/your-profile
+LinkedIn: linkedin.com/in/shafiqafizudin
 
-Email: [your.email@example.com]
+Email: [shafiq.afizudin@outlook.com]
