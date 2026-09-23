@@ -90,7 +90,7 @@ def transform_procurement_data(df_raw: pd.DataFrame) -> pd.DataFrame:
         axis=1
     )
     return df
-
+```
 2. Core Analytical DAX Measures
 
 // Measure 1: On-Time In-Full (OTIF) Delivery %
